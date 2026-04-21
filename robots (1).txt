@@ -1,0 +1,12 @@
+# robots.txt for joeycheng.github.io
+# 允許所有搜尋引擎爬蟲訪問
+
+User-agent: *
+Allow: /
+Disallow: 
+
+# 指定 Sitemap 位置
+Sitemap: https://joeycheng.github.io/sitemap.xml
+
+# 爬蟲延遲設定（可選）
+Crawl-delay: 1
